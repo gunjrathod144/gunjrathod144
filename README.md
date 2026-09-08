@@ -109,3 +109,5 @@ DevOps & CI/CD          → Automation and deployment workflows
 Cloud Technologies      → Cloud fundamentals and services
 Generative AI            → Practical AI applications
 Full Stack Development  → Building stronger web development skills
+
+<h3 align="center">✨ Learn • Build • Improve ✨</h3>

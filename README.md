@@ -1,41 +1,63 @@
-<h1 align="center">Hello, Myself Gunj Rathod </h1>
-
-<h3 align="center">
-B.Tech IT Student • Full Stack Developer • DevOps Learner • Prompt Engineer
-</h3>
+<h1 align="center">Hii, Myself Gunj Rathod </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gunjrathod144&label=Profile%20Views&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/gunjrathod144?label=Followers&style=for-the-badge&logo=github" alt="Followers"/>
+  <strong>B.Tech IT Student • Full Stack Developer • DevOps Learner • Prompt Engineer</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💻_FULL_STACK_DEVELOPMENT-EAF4FF?style=for-the-badge" alt="Full Stack Development"/>
-  <img src="https://img.shields.io/badge/⚙️_DEVOPS-EAF4FF?style=for-the-badge" alt="DevOps"/>
-  <img src="https://img.shields.io/badge/🤖_PROMPT_ENGINEERING-EAF4FF?style=for-the-badge" alt="Prompt Engineering"/>
+  Building, learning, and exploring technology through hands-on projects.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gunj-rathod-7731913a0">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/gunjrathod144">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/gunjrathod144">
+    <img src="https://img.shields.io/badge/Follow-4F8CC9?style=flat-square&logo=github&logoColor=white" alt="Follow on GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gunjrathod144&label=Profile%20Views&style=flat-square&color=5B8DEF" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/gunjrathod144?label=Followers&style=flat-square&color=4F8CC9" alt="Followers"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 **B.Tech Information Technology Student**
+I'm a **B.Tech Information Technology student** interested in building practical software and continuously expanding my technical skills.
 
-💻 Interested in **Full Stack Development**
+- 🌐 Exploring **Full Stack Development**
+- ⚙️ Learning **DevOps, CI/CD & Cloud Technologies**
+- 🤖 Exploring **Prompt Engineering & Generative AI**
+- 🐧 Working with **Linux, Git & GitHub**
+- 🧩 Strengthening my **programming and problem-solving skills**
+- 🚀 Learning through hands-on projects and real-world development
 
-⚙️ Currently learning **DevOps, CI/CD & Cloud Concepts**
+---
 
-🤖 Exploring **Prompt Engineering & Generative AI**
+## 🎯 What I'm Focused On
 
-🐧 Comfortable working with **Linux & Git**
-
-🚀 I enjoy learning new technologies and building real-world projects.
+| Area | Focus |
+| :--- | :--- |
+| 🌐 **Full Stack Development** | Building and understanding modern web applications |
+| ⚙️ **DevOps** | Learning CI/CD, automation, containers and deployment |
+| ☁️ **Cloud** | Exploring cloud concepts and deployment workflows |
+| 🤖 **AI** | Exploring Prompt Engineering and Generative AI |
+| 🧩 **Problem Solving** | Improving programming fundamentals and logical thinking |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
@@ -45,7 +67,7 @@ B.Tech IT Student • Full Stack Developer • DevOps Learner • Prompt Enginee
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-### 🌐 Full Stack Development
+### 🌐 Web Development
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -74,42 +96,16 @@ B.Tech IT Student • Full Stack Developer • DevOps Learner • Prompt Enginee
 ### 🤖 AI & Prompt Engineering
 
 <p>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-6C63FF?style=for-the-badge&logoColor=white" alt="Prompt Engineering"/>
-  <img src="https://img.shields.io/badge/Generative_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-6C63FF?style=for-the-badge" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/Generative_AI-8E75B2?style=for-the-badge" alt="Generative AI"/>
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
-<p>
-  <img src="https://img.shields.io/badge/DevOps-EAF4FF?style=for-the-badge" alt="DevOps"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-EAF4FF?style=for-the-badge" alt="CI/CD"/>
-  <img src="https://img.shields.io/badge/Docker-EAF4FF?style=for-the-badge" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Cloud-EAF4FF?style=for-the-badge" alt="Cloud"/>
-  <img src="https://img.shields.io/badge/Generative_AI-EAF4FF?style=for-the-badge" alt="Generative AI"/>
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/gunj-rathod-7731913a0">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/gunjrathod144">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</p>
-
----
-
-<h3 align="center">✨ Learn • Build • Improve ✨</h3>
-
-<p align="center">
-  <i>Always learning. Always building. 🚀</i>
-</p>
+```text
+DevOps & CI/CD          → Automation and deployment workflows
+Cloud Technologies      → Cloud fundamentals and services
+Generative AI            → Practical AI applications
+Full Stack Development  → Building stronger web development skills
